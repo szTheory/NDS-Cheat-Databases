@@ -1,0 +1,10 @@
+===============================================================================
+Action Replay DS/DSi Users:
+===============================================================================
+These devices use the cheats.xml database, however due to a ~2.5MB size limitation, it's impossible to import the entire
+cheat database into the cheat device. You will have to utilize the Action Replay DS/DSi P.C. software and pick and choose
+which titles you want to use cheat codes on.
+
+NOTE:
+Please make sure you are using the latest dedicated firmware version for your respective cheating device, that way you have
+full access to any potential title compatibility and or bug fixes.

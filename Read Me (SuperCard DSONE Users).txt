@@ -1,0 +1,46 @@
+===============================================================================
+SuperCard DSONE/i Users:
+===============================================================================
+I decided to do something different for a change and do something that hasn't been done for years. I updated the SCC
+cheats for those that use the original DSONE/i kernels without EOS. SCC cheat support was dropped a long time ago but
+I picked it back up again with modern day cheats integrated.
+-------------------------------------------------------------------------------
+How to add and use the SCC cheats:
+There is three methods to make this work.
+
+1. Renaming the cheat(s) to match the ROM scene release number
+Some ROMs on the internet have numbers in front of the ROM name(s) for many reasons, one major reason being that they
+are scene release numbers. SCC cheats can take advantage of that when you rename the cheat(s) to the ROM scene release
+number.
+
+Example:
+Say your ROM was named like so, "3541 - Pokemon - Platinum Version (USA)", you would change your SCC cheat file name to
+"3541". This method can be frustrating at times because not all the ROMs you download have a scene release number in
+front of the ROM name.
+
+To use this method, your cheats will need to be in the right place on your microSD card:
+scshell\cheat
+
+
+2. Renaming the cheat(s) to match the ROM name
+This method is simpler than method one, all you have to do is name your cheat(s) the same name as your ROM(s). This method
+requires you to stick the SCC cheat(s) in the SAME directory where your games are located.
+
+Example:
+Say your ROM was named like so, "Pokemon - Platinum Version (USA)", you would change your SCC cheat file to match the ROM name.
+
+To use this method, your cheats will need to be in the right place on your microSD card:
+scshell\yourgamesfolderhere
+
+
+3. Renaming the cheat(s) to match the game ID's
+This method CAN be frustrating however it is my prefered method for the cheats. This method is very useful because then you
+don't have to use and or update the ndsinfo.dat file anymore, instead the flashcart will recognize that the cheats are labeled
+as the game ID's and use them without the need of the ndsinfo.dat.
+
+Example:
+Say your ROM was "Pokemon - Platinum Version (USA)", you would rename the SCC cheat file to matched the game ID, "CPUE_d074d1b3".
+Finding the ID's online isn't hard at all.
+
+To use this method, your cheats will need to be in the right place on your microSD card:
+scshell\cheat

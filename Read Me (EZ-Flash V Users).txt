@@ -1,0 +1,25 @@
+===============================================================================
+EZ-Flash V, V Plus, Vi Users:
+===============================================================================
+These flashcarts have had quite a few different methods to run cheats, however there is one cheat method that some users have had
+trouble with over the years until newer kernel versions came out, replacing these old formats with the usrcheat.dat database.
+This older database was called EZARCode.dat, a similar database to the usrcheat.dat database. With this knowledge and the right
+tools, I have successfully revived the EZARCode.dat database for those that still use the older EZ-Flash V, V Plus, and Vi kernel
+versions under 2.0.
+-------------------------------------------------------------------------------
+How to add and use the EZARCode.dat cheat database:
+
+Step #1:
+Make sure the moonshl folder and the ez5sys.bin file is on the root of your SD card.
+
+Step #2:
+Make sure you have the latest resetsp.bin file inside the moonshl folder, most of the kernels automatically came
+with the latest version available.
+
+Step #3:
+Create a folder named CHT onto the root of your SD card.
+
+Step #4:
+Drag and drop or copy and paste the EZARCode.dat file inside the CHT folder.
+
+That's all there is to it, just enable the cheats and go from there. Enjoy!

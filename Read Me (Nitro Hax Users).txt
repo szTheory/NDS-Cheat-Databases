@@ -1,0 +1,18 @@
+===============================================================================
+Nitro Hax Users:
+===============================================================================
+Original Edition:
+
+This homebrew applications uses the cheats.xml database, however due to a ~2.5MB size limitation, it's impossible to utilize
+the whole cheat database all at once. You will have to trim the database down to only contain cheat codes for a couple or so
+titles at a time to fit within the size range.
+
+NOTE:
+Please make sure you are using the latest version of Nitro Hax, that way you have full access to any potential title
+compatibility and or bug fixes.
+-------------------------------------------------------------------------------
+Usrcheat Edition:
+
+This version of Nitro Hax only works on the Nintendo DSi and Nintendo 2DS/3DS systems, instead of using the cheats.xml
+database, it now uses the usrcheat.dat database. This change also removes the requirement of having to trim the database
+down within the ~2.5MB range as the limitation doesn't exist with this version due to memory flexibility via the hardware.

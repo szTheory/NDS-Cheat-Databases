@@ -1,0 +1,312 @@
+===============================================================================
+Cheat Database Setup Guides:
+===============================================================================
+Cheat Devices:
+
+Action Replay DS
+
+Cheat Databases:
+- cheats.xml
+
+Locations:
+Drag and drop cheats.xml into the cheat list pane using the P.C. software.
+
+
+Action Replay DSi
+
+Cheat Databases:
+- cheats.xml
+
+Locations:
+Drag and drop cheats.xml into the cheat list pane using the P.C. software.
+-------------------------------------------------------------------------------
+Flash Cartridge Kernels:
+
+Kernel:
+AceKard 2 Menu
+
+Cheat Databases:
+- cheat.dat
+- cheats.dat
+- cheats.xml
+- usrcheat.dat
+
+Locations:
+SD:/__ak2/cheats/cheat.dat
+SD:/__ak2/cheats/cheats.dat
+SD:/__ak2/cheats/cheats.xml
+SD:/__ak2/cheats/usrcheat.dat
+
+
+Kernel:
+AKAIO
+
+Cheat Databases:
+- cheat.dat
+- cheats.dat
+- cheats.xml
+- usrcheat.dat
+
+Locations:
+SD:/__aio/cheats/cheat.dat
+SD:/__aio/cheats/cheats.dat
+SD:/__aio/cheats/cheats.xml
+SD:/__aio/cheats/usrcheat.dat
+
+
+Kernel:
+CycloDS Menu
+
+Cheat Databases:
+- user.evoCheats
+
+Locations:
+SD:/CycloDS/user.evoCheats
+
+
+Kernel:
+DSTT Menu
+
+Cheat Databases:
+- usrcheat.dat
+
+Locations:
+SD:/TTMenu/usrcheat.dat
+
+
+Kernel:
+EDGE Menu
+
+Cheat Databases:
+- cheats.dat
+
+Locations:
+SD:/EDGE/cheats.dat
+
+
+Kernel:
+EZ-Flash V Menu
+
+Cheat Databases:
+- usrcheat.dat
+
+Locations:
+SD:/EZ5Shell/usrcheat.dat
+
+
+Kernel:
+EZ-Flash V Menu (Original)
+
+Cheat Databases:
+- ezarcode.dat
+
+Locations:
+SD:/CHT/ezarcode.dat
+
+
+Kernel:
+EZ-Flash Vi Menu
+
+Cheat Databases:
+- usrcheat.dat
+
+Locations:
+SD:/EZ5Shell/usrcheat.dat
+
+
+Kernel:
+M3 Menu
+
+Cheat Databases:
+- cheat.dat
+
+Locations:
+SD:/_system_/cheat.dat
+
+
+Kernel:
+M3 Sakura
+
+Cheat Databases:
+- cheat.db
+- cheat_EN.db
+
+Locations:
+SD:/SYSTEM/cheat.db
+SD:/SYSTEM/cheat_EN.db
+
+
+Kernel:
+R4 Menu
+
+Cheat Databases:
+- cheat.dat
+
+Locations:
+SD:/_system_/cheat.dat
+
+
+Kernel:
+R4i Menu
+
+Cheat Databases:
+- usrcheat.dat
+
+Locations:
+SD:/R4iMenu/usrcheat.dat
+
+
+Kernel:
+SuperCard DSONE EOS
+
+Cheat Databases:
+- usrcheat.dat
+
+Locations:
+SD:/_dsone/usrcheat.dat
+
+
+Kernel:
+SuperCard DSONE OS
+
+Cheat Databases:
+- SCC Cheats
+
+Locations:
+SD:/scshell/cheat/SCC Cheats
+
+
+Kernel:
+SuperCard DSTWO EOS
+
+Cheat Databases:
+- usrcheat.dat
+
+Locations:
+SD:/_dstwo/usrcheat.dat
+
+
+Kernel:
+Wood R4
+
+Cheat Databases:
+- usrcheat.dat
+
+Locations:
+SD:/__rpg/cheats/usrcheat.dat
+
+
+Kernel:
+Wood RPG
+
+Cheat Databases:
+- usrcheat.dat
+
+Locations:
+SD:/__rpg/cheats/usrcheat.dat
+
+
+Kernel:
+YSMenu
+
+Cheat Databases:
+- usrcheat.dat
+
+Locations:
+SD:/TTMenu/usrcheat.dat
+-------------------------------------------------------------------------------
+Homebrew Software:
+
+Nitro Hax (3DS)
+
+Cheat Databases:
+- cheats.xml
+
+Locations:
+SD:/cheats.xml
+SD:/NitroHax/cheats.xml
+SD:/data/NitroHax/cheats.xml
+
+
+Nitro Hax (3DS) (Usrcheat Edition)
+
+Cheat Databases:
+- usrcheat.dat
+
+Locations:
+SD:/usrcheat.dat
+SD:/NitroHax/usrcheat.dat
+SD:/data/NitroHax/usrcheat.dat
+
+
+Nitro Hax (DSi)
+
+Cheat Databases:
+- cheats.xml
+
+Locations:
+SD:/cheats.xml
+SD:/NitroHax/cheats.xml
+SD:/data/NitroHax/cheats.xml
+
+
+Nitro Hax (DSi) (Usrcheat Edition)
+
+Cheat Databases:
+- usrcheat.dat
+
+Locations:
+SD:/usrcheat.dat
+SD:/NitroHax/usrcheat.dat
+SD:/data/NitroHax/usrcheat.dat
+
+
+Nitro Hax (NDS)
+
+Cheat Databases:
+- cheats.xml
+
+Locations:
+SD:/cheats.xml
+SD:/NitroHax/cheats.xml
+SD:/data/NitroHax/cheats.xml
+
+
+TWiLight Menu++ (3DS)
+
+Cheat Databases:
+- usrcheat.dat
+
+Locations:
+SD:/_nds/TWiLightMenu/extras/usrcheat.dat
+
+
+TWiLight Menu++ (DSi)
+
+Cheat Databases:
+- usrcheat.dat
+
+Locations:
+SD:/_nds/TWiLightMenu/extras/usrcheat.dat
+-------------------------------------------------------------------------------
+Emulators:
+
+DeSmuMe
+
+Cheat Databases:
+- cheat.dat
+
+Locations:
+Drive:/***/DeSmuMe/Cheats/cheat.dat
+
+Notes:
+Use the usrcheat.dat and rename it to cheat.dat.
+
+
+DraStic
+
+Cheat Databases:
+- usrcheat.dat
+
+Locations:
+storage/sdcard0/DraStic/usrcheat.dat

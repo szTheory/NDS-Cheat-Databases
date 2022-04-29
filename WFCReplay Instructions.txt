@@ -1,0 +1,27 @@
+===============================================================================
+WFCReplay Instructions:
+===============================================================================
+NOTE: IF YOU HAVE ANYTHING HIGHER THAN WEP SECURITY ON YOUR ROUTER, THIS WILL NOT WORK.
+
+I have added WFCReplay cheat codes to numerous NDS titles that were able to use Wi-Fi before the shutdown.
+Use the link of instructions below to set up your Wi-Fi for your game.
+
+Link:
+https://github.com/polaris-/dwc_network_server_emulator/wiki#nintendo-dsdsi3ds2ds-configuration
+-------------------------------------------------------------------------------
+DNS Addresses:
+
+You have to set this up in the Wi-Fi settings in-game.
+
+Box #1: 104.131.093.087
+Box #2: 000.000.000.000
+-------------------------------------------------------------------------------
+How to start using the AltWFC service:
+1. Make sure you have a compatible flashcart (one that can use Wi-Fi) slotted into your console.
+2. Find a Wi-Fi compatible game and open/enable cheats. (This will vary on the type of flashcart you use.)
+3. Open the cheat folder labeled "Alternative WFC" and enable the WFCReplay cheat code.
+4. Now save your enabled cheats and launch the game.
+5. Depending on where the setting are in-game you need to look for "Nintendo WFC Settings" and open that.
+6. Go to options and tap "Erase Nintendo WFC Configuration", if it is grayed out then skip this step.
+7. Go back and set up a new Wi-Fi connection. Make sure to set "Auto-obtain DNS" to "No" so you can use the DNS Addresses listed above.
+8. Save your settings (test it if you want) and enjoy! You can now use Wi-Fi on your title(s) again.
